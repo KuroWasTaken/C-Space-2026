@@ -1,4 +1,6 @@
 # 🚀 Minifusée — Carte d'Acquisition de Données Vol
+<img width="536" height="714" alt="image" src="https://github.com/user-attachments/assets/860c1130-12aa-4bbc-8332-c92e3c3cacba" />
+
 
 > KiCad · PCB multicouche · CEM · Capteurs pression / accélération  
 > Club Aérospatial ISEN Nantes · Compétition C'Space CNES · 2025–Présent
